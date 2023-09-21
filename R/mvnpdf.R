@@ -50,3 +50,4 @@ mvnpdf <- function(x, mean =  rep(0, nrow(x)),
 plot.mvnpdf <- function(x, ...) {
   plot(x$x[1, ], x$y, type = "l", ylab="mvnpdf", xlab="Obs (1st dim")
 }
+
