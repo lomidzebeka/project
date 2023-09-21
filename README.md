@@ -10,5 +10,6 @@ plethra in height”
 [![R-CMD-check](https://github.com/lomidzebeka/project/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/lomidzebeka/project/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
-[![Codecov test
+<!-- badges: start --> [![Codecov test
 coverage](https://codecov.io/gh/lomidzebeka/project/branch/master/graph/badge.svg)](https://app.codecov.io/gh/lomidzebeka/project?branch=master)
+<!-- badges: end -->
