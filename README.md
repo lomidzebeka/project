@@ -4,3 +4,5 @@ of this document it’s a default R Markdown document. Currently, there’s
 nothing interesting here.
 
 Here conflict!
+
+There’s indeed nothing interesting here.
