@@ -14,5 +14,5 @@ Suggests:
 Config/testthat/edition: 3
 Imports: 
     mvtnorm
-URL: https://github.com/lomidzebeka/project
+URL: https://github.com/lomidzebeka/project, https://lomidzebeka.github.io/project/
 BugReports: https://github.com/lomidzebeka/project/issues
